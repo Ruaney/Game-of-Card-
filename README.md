@@ -1,3 +1,3 @@
 # Game-of-Card
 
-command: 'make run' 
+command: ´make run´ 
